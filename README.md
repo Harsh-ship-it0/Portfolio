@@ -1,5 +1,3 @@
-# Portfolio
-
 # My Portfolio Website
 
 Welcome to my personal portfolio website!  
